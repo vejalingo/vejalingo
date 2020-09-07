@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Vejalingo
+### 👋 Xse, I'm Vejalingo:
 
 
 - 🔭 I’m currently working on ...
