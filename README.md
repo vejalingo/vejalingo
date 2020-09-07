@@ -1,4 +1,6 @@
-### 👋 Xse, I'm Vejalingo: :wave
+### 👋 Xse, I'm Vejalingo: 
+
+:wave
 
 
 - 🔭 I’m currently working on ...
