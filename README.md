@@ -1,7 +1,5 @@
 ### 👋 Xse, I'm Vejalingo: 
 
-:wave
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
