@@ -1,2 +1,2 @@
-### 👋 Xse, I'm Vejalingo: 
+### 👋 Xse, I'm Vejalingo!
 
